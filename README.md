@@ -23,7 +23,9 @@ Visual components and Python
 
 
 
-## ProgramDEVELOPED BY : DEEPIKA.J
+## Program
+```
+DEVELOPED BY : DEEPIKA.J
 REGISTER NO : 212221230016
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -64,7 +66,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-```
+
 
 
 
